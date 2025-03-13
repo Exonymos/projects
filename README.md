@@ -4,11 +4,11 @@
 
 Welcome to my project repository! Here, you can find a collection of my various projects, ranging from web applications to games and utilities.
 
-[![GitHub license](https://img.shields.io/github/license/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/commits/main)<br>
-[![GitHub stars](https://img.shields.io/github/stars/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Exonymos/exonymos.me)](https://github.com/Exonymos/exonymos.me/network)
+<a href="https://github.com/Exonymos/exonymos.me/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Exonymos/exonymos.me" alt="License"></a>
+<a href="https://github.com/Exonymos/exonymos.me/issues"><img src="https://img.shields.io/github/issues/Exonymos/exonymos.me" alt="Issues"></a>
+<a href="https://github.com/Exonymos/exonymos.me/commits/main"><img src="https://img.shields.io/github/last-commit/Exonymos/exonymos.me" alt="Last Commit"></a><br>
+<a href="https://github.com/Exonymos/exonymos.me/stargazers"><img src="https://img.shields.io/github/stars/Exonymos/exonymos.me" alt="Stars"></a>
+<a href="https://github.com/Exonymos/projects/forks"><img src="https://img.shields.io/github/forks/Exonymos/exonymos.me" alt="Forks"></a>
 
 </div>
 
