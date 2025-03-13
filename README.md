@@ -43,73 +43,73 @@ This repository contains a variety of projects that I have worked on. Each proje
 
 A Connect 4 game built with React.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Connect-4-React-Game) | 🎮 [Live Demo](https://exonymos.github.io/projects/Connect-4-React-Game/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/connect-4-react-game) | 🎮 [Live Demo](https://exonymos.github.io/projects/connect-4-react-game/)
 
 ### Countdown-Timer
 
 A simple countdown timer with an alarm.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Countdown-Timer) | 🎮 [Live Demo](https://exonymos.github.io/projects/Countdown-Timer/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/countdown-timer) | 🎮 [Live Demo](https://exonymos.github.io/projects/countdown-timer/)
 
 ### Counter
 
 A basic increment/decrement counter.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Counter) | 🎮 [Live Demo](https://exonymos.github.io/projects/Counter/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/counter) | 🎮 [Live Demo](https://exonymos.github.io/projects/counter/)
 
 ### Gacha-Level-Calculator
 
 A level exp calculator for various gacha games.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Gacha-Level-Calculator) | 🎮 [Live Demo](https://exonymos.github.io/projects/Gacha-Level-Calculator/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/gacha-level-calculator) | 🎮 [Live Demo](https://nograsscalc.vercel.app)
 
 ### GI-AR-Calculator
 
 A calculator for Genshin Impact's AR experience requirements.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/GI-AR-Calculator) | 🎮 [Live Demo](https://exonymos.github.io/projects/GI-AR-Calculator/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/gi-ar-calculator) | 🎮 [Live Demo](https://exonymos.github.io/projects/gi-ar-calculator/)
 
 ### Guess-The-Number-Game
 
 A game where you guess the number between 1 and 100.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Guess-The-Number-Game) | 🎮 [Live Demo](https://exonymos.github.io/projects/Guess-The-Number-Game/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/guess-the-number-game) | 🎮 [Live Demo](https://exonymos.github.io/projects/guess-the-number-game/)
 
 ### Illusions
 
 A collection of optical illusions.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Illusions) | 🎮 [Live Demo](https://exonymos.github.io/projects/Illusions/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/illusions) | 🎮 [Live Demo](https://exonymos.github.io/projects/illusions/)
 
 ### QR-Code-Generator
 
 A tool to generate QR codes.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/QR-Code-Generator) | 🎮 [Live Demo](https://exonymos.github.io/projects/QR-Code-Generator/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/qr-code-generator) | 🎮 [Live Demo](https://exonymos.github.io/projects/qr-code-generator/)
 
 ### Quiz-Game
 
 A quiz game with the choice to select categories and difficulties.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Quiz-Game) | 🎮 [Live Demo](https://exonymos.github.io/projects/Quiz-Game/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/quiz-game) | 🎮 [Live Demo](https://exonymos.github.io/projects/quiz-game/)
 
 ### Random-Quote-Generator
 
 A tool to generate random quotes.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Random-Quote-Generator) | 🎮 [Live Demo](https://exonymos.github.io/projects/Random-Quote-Generator/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/random-quote-generator) | 🎮 [Live Demo](https://exonymos.github.io/projects/random-quote-generator/)
 
 ### Tea-Addicts
 
 A web app that counts the total number of sips of tea taken by users globally.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Tea-Addicts) | 🎮 [Live Demo](https://exonymos.github.io/projects/Tea-Addicts/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/tea-addicts) | 🎮 [Live Demo](https://exonymos.github.io/projects/tea-addicts/)
 
 ### Todo-List
 
 A simple todo list app with the ability to add, delete, and clear all todos. Users can also import and export their todos.
 <br>
-📁 [View Project](https://github.com/Exonymos/projects/tree/main/Todo-List/) | 🎮 [Live Demo](https://exonymos.github.io/projects/Todo-List/)
+📁 [View Project](https://github.com/exonymos/projects/tree/main/todo-list) | 🎮 [Live Demo](https://exonymos.github.io/projects/todo-list/)
 
 ## Contributing
 
