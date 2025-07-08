@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://exonymos.github.io/projects/Todo-List/",
+  "homepage": "https://exonymos.github.io/projects/todo-list/",
   "eslintConfig": {
     "extends": [
       "react-app",
