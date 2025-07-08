@@ -1,0 +1,30 @@
+name: Deploy Projects to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Prepare deployment folder
+        run: |
+          mkdir gh-pages
+          cp -r docs/* gh-pages/
+          for d in */ ; do
+            if [[ "$d" != "docs/" && -f "$d/index.html" ]]; then
+              cp -r "$d" gh-pages/
+            fi
+          done
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./gh-pages
+          publish_branch: gh-pages
