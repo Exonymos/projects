@@ -1,0 +1,11 @@
+{ "repoOwner": "exonymos",
+  "repoName": "projects",
+  "friendlyNames": {
+    "GI-AR-Calculator": "Genshin Impact AR Calculator",
+    "Counter": "Simple Counter",
+    "Todo List": "To-do List"
+  },
+  "exclude": [
+    "Gacha-Level-Calculator"
+  ]
+}
