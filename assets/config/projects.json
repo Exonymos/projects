@@ -3,7 +3,8 @@
   "repoName": "projects",
   "friendlyNames": {
     "connect-4-react-game": "Connect 4 React Game",
-    "Counter": "Simple Counter",
+    "countdown-timer": "Countdown Timer",
+    "counter": "Simple Counter",
     "gi-ar-calculator": "Genshin Impact AR Calculator",
     "guess-the-number-game": "Guess the Number Game",
     "illusions": "JS Illusion",
