@@ -17,7 +17,7 @@ jobs:
           mkdir gh-pages
           cp -r docs/* gh-pages/
           for d in */ ; do
-            if [[ "$d" != "docs/" && -f "$d/index.html" ]]; then
+            if [[ "$d" != "docs/" && "$d" != "gh-pages/" && -f "$d/index.html" ]]; then
               cp -r "$d" gh-pages/
             fi
           done
