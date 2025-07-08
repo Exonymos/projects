@@ -1,11 +1,18 @@
-{ "repoOwner": "exonymos",
+{
+  "repoOwner": "exonymos",
   "repoName": "projects",
   "friendlyNames": {
-    "GI-AR-Calculator": "Genshin Impact AR Calculator",
+    "connect-4-react-game": "Connect 4 React Game",
     "Counter": "Simple Counter",
-    "Todo List": "To-do List"
+    "gi-ar-calculator": "Genshin Impact AR Calculator",
+    "guess-the-number-game": "Guess the Number Game",
+    "illusions": "JS Illusion",
+    "md-to-html": "Markdown to HTML",
+    "qr-code-generator": "QR Code Generator",
+    "quiz-game": "Quiz Game",
+    "random-quote-generator": "Random Quote Generator (Broken)",
+    "tea-addicts": "Tea Addicts",
+    "todo-list": "To-do List"
   },
-  "exclude": [
-    "Gacha-Level-Calculator"
-  ]
+  "exclude": ["gacha-level-calculator", "docs", "assets"]
 }
