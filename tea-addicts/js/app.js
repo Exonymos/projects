@@ -7,7 +7,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyA-czG_ZNvVlsYLK3TX64ALr2GzyZjBcY4",
     authDomain: "tea-addicts.firebaseapp.com",
     projectId: "tea-addicts",
-    storageBucket: "tea-addicts.appspot.com",
+    storageBucket: "tea-addicts.firebasestorage.app",
     messagingSenderId: "363775085178",
     appId: "1:363775085178:web:6473e20d2fca64890dc9c3",
     measurementId: "G-MNN2F3VHPJ"
