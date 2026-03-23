@@ -11,9 +11,8 @@
     "md-to-html": "Markdown to HTML",
     "qr-code-generator": "QR Code Generator",
     "quiz-game": "Quiz Game",
-    "random-quote-generator": "Random Quote Generator (Broken)",
     "tea-addicts": "Tea Addicts",
     "todo-list": "To-do List"
   },
-  "exclude": ["gacha-level-calculator", "docs", "assets"]
+  "exclude": ["gacha-level-calculator", "docs", "assets", "random-quote-generator"]
 }
