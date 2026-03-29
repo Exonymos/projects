@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+
+# Minified files
+*.min.js
+*.min.css
+
+# Incomplete projects
+md-to-html/
+
+# React build outputs (bundled/minified)
+todo-list/static/
+todo-list/.source/
+connect-4-react-game/static/
+
+# Minified HTML
+quiz-game/index.html

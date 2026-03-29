@@ -1,0 +1,28 @@
+{
+  "name": "exonymos-projects",
+  "version": "2.0.0",
+  "description": "A collection of web apps, games, tools, and experiments by Exonymos.",
+  "author": "Exonymos",
+  "license": "MIT",
+  "homepage": "https://exonymos.github.io/projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exonymos/projects.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web-apps",
+    "games",
+    "tools",
+    "experiments",
+    "monorepo"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\"",
+    "check": "prettier --check \"**/*.{html,css,js,json,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "packageManager": "pnpm@10.33.0"
+}
